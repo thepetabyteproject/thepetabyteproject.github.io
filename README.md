@@ -4,7 +4,7 @@ The Petabyte Project (TPP) aims to provide a uniform search for fast radio trans
 
 We will achieve this massive undertaking using
 - [Your](https://thepetabyteproject.github.io/your/), a unified reader to read and process data from multiple formats.
-- [Heimdall](https://sourceforge.net/projects/heimdall-astro/), a GPU accellerated transient detection pipeline.
+- [Heimdall](https://sourceforge.net/projects/heimdall-astro/), a GPU accelerated transient detection pipeline.
 - [FETCH](https://github.com/devanshkv/fetch), our revolutionary machine-learning-based transient identifier.
 
 Over the next few years, the TPP team will achieve the following milestones.
